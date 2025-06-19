@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(226, 89, 26);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+    font-style: italic;
+    font-weight: 900;
+}  
+
+
+p{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    
+}
